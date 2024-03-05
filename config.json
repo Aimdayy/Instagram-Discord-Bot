@@ -1,10 +1,10 @@
 {
     "Config": {
-        "token": "DISCORD BOT TOKEN",
+        "token": "add here",
         "prefix": ".",
         "color": 15548997,
-        "channel_1": 1001564640393826535,
-        "channel_2": 1001564640393826535
+        "channel_1": 0000000000000000000,
+        "channel_2": 0000000000000000000
     },
 
     "Roles": {
